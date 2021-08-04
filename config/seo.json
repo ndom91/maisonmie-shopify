@@ -1,14 +1,14 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
+  "title": "MaisonMie Design",
+  "titleTemplate": "%s - Storefront",
   "description": "Next.js Commerce - https://www.nextjs.org/commerce",
   "openGraph": {
     "title": "ACME Storefront | Powered by Next.js Commerce",
     "description": "Next.js Commerce - https://www.nextjs.org/commerce",
     "type": "website",
     "locale": "en_IE",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "url": "https://maisonmie.vercel.app",
+    "site_name": "MaisonMie",
     "images": [
       {
         "url": "/card.png",
@@ -19,8 +19,8 @@
     ]
   },
   "twitter": {
-    "handle": "@nextjs",
-    "site": "@nextjs",
+    "handle": "@maisonmie",
+    "site": "@maisonmie",
     "cardType": "summary_large_image"
   }
 }
